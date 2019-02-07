@@ -8,7 +8,7 @@ const Navbar = (props) => {
   return(
     <nav className="nav-wrapper red darken-3">
       <div className="container">
-        <a className="brand-logo">Pika Pika</a>
+        <a className="brand-logo">Blog Fake Data</a>
         <ul className="right">
           <li><Link to="/">Home</Link></li>
           <li><NavLink to="/about">About</NavLink></li>
